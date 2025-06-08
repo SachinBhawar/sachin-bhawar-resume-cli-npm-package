@@ -1,7 +1,22 @@
 {
     "name": "@sachin-bhawar",
     "version": "1.0.0",
-    "description": "\"This npm package displays cli resume of Sachin Bhawar\"",
+    "description": "\"This npm package shows Resume of Sachin Bhawar.\"",
+    "keywords": [
+        "\"Sachin",
+        "Bhawar\"",
+        "\"Resume\"",
+        "\"Frontend",
+        "Dev\""
+    ],
+    "homepage": "https://github.com/SachinBhawar/sachin-bhawar-resume-cli-npm-package#readme",
+    "bugs": {
+        "url": "https://github.com/SachinBhawar/sachin-bhawar-resume-cli-npm-package/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SachinBhawar/sachin-bhawar-resume-cli-npm-package.git"
+    },
     "license": "ISC",
     "author": "https://www.linkedin.com/in/sachin-bhawar/",
     "type": "module",
@@ -11,8 +26,5 @@
     },
     "bin": {
         "@sachin-bhawar": "./index.js"
-    },
-    "publishConfig": {
-        "access": "public"
     }
 }
