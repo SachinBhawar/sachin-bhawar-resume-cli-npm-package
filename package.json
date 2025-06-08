@@ -1,0 +1,15 @@
+{
+    "name": "@sachin-bhawar",
+    "version": "1.0.0",
+    "description": "\"This npm package displays cli resume of Sachin Bhawar\"",
+    "license": "ISC",
+    "author": "https://www.linkedin.com/in/sachin-bhawar/",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "@sachin-bhawar": "./index.js"
+    }
+}
