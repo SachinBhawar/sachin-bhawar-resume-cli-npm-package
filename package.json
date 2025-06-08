@@ -1,22 +1,16 @@
 {
-    "name": "@sachin-bhawar",
+    "name": "@sachin-bhawar/resume",
     "version": "1.0.0",
     "description": "\"This npm package shows Resume of Sachin Bhawar.\"",
-    "keywords": [
-        "\"Sachin",
-        "Bhawar\"",
-        "\"Resume\"",
-        "\"Frontend",
-        "Dev\""
-    ],
-    "license": "ISC",
-    "author": "https://www.linkedin.com/in/sachin-bhawar/",
-    "type": "module",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "bin": {
-        "@sachin-bhawar": "./index.js"
-    }
+        "resume": "./index.js"
+    },
+    "author": "Sachin Bhawar",
+    "license": "ISC",
+    "keywords": [
+        "resume",
+        "cli",
+        "sachin-bhawar"
+    ]
 }
