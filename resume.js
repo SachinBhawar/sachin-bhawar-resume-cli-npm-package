@@ -11,8 +11,10 @@ export const resume = `
    - 📱 9604328867
    - 🌐 https://github.com/sachinbhawar/
    - 🔗 https://www.linkedin.com/in/sachin-bhawar/
+   - 🔗 https://sachinbhawar.netlify.app/
 
 🚀 Projects:
+   - 🤖 AI Chatbot (AI Chat bot Built with React): https://ai-chatbot-react-app.vercel.app/
    - 🛒 BusyBuy (E-commerce in React + Firebase): https://e-comm-project-busybuy.vercel.app/
    - 💬 ChatterUp (Live Chat App): https://chatterup-chat-app.onrender.com
    - 📄 Post Away (Social REST API): https://postaway-rest-api.onrender.com/api-docs/

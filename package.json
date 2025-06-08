@@ -11,5 +11,8 @@
     },
     "bin": {
         "@sachin-bhawar": "./index.js"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
