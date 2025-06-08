@@ -7,10 +7,14 @@
         "resume": "./index.js"
     },
     "author": "Sachin Bhawar",
+    "type": "module",
     "license": "ISC",
     "keywords": [
         "resume",
         "cli",
         "sachin-bhawar"
-    ]
+    ],
+    "dependencies": {
+        "@sachin-bhawar/resume": "^1.0.0"
+    }
 }
